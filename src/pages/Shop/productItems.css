@@ -1,0 +1,10 @@
+.columns{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.card {
+    height: 100px;
+    max-width: 30%;
+}
